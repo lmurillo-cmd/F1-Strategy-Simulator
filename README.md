@@ -25,7 +25,7 @@ El software del proyecto se diseño mediante modulos .py
 
 
 # Ejecución del software (VS Code)
-1. Descargue y descomprima el archivo '.zip' que contine los 4 archivos:
+1. Descargue y descomprima el archivo '.zip' que contiene los 4 archivos:
    (main.py, data_manager.py, simulator.py y visualizer.py).
    
 2. Abra la carpeta en VS code.
