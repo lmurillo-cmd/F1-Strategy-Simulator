@@ -2,7 +2,7 @@
 
 Simulador avanzado de estrategias de carrera
 
-El programa modela aspectos críticos como la degradación de compuestos (Blando, Medios y Duros), ventanas de parada en boxes, dinámicas de carrera con condiciones climáticas variables como lluvia e incidentes en pista (Safety car).
+El programa modela aspectos críticos como la degradación de compuestos (Blando, Medios, Duros, Intermedios), ventanas de parada en boxes, dinámicas de carrera con condiciones climáticas variables como lluvia e incidentes en pista (Safety car).
 
 # Requisitos e instalación
 
