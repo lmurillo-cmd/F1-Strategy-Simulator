@@ -15,13 +15,13 @@ Para ejecutar el programa en Visual Studio Code, es necesario tener instaladas l
 # Estructura y archivos del proyecto
 
 El software del proyecto se diseño mediante modulos .py
-*main.py: Es el modulo principal, contrala el flujo del menú y conecta todos los componentes de la simulación.
+* main.py: Es el modulo principal, contrala el flujo del menú y conecta todos los componentes de la simulación.
 
-*data_manager.py: Es el módulo encargado de verificar el entrono del sistema, generar por defecto y cargar el archivo con los datos de los circuitos udando *DataFrames* de Pandas.
+* data_manager.py: Es el módulo encargado de verificar el entrono del sistema, generar por defecto y cargar el archivo con los datos de los circuitos udando *DataFrames* de Pandas.
 
-*simulator.py: Es el módulo que contiene las formulas matemáticas (calculos de degradación), el control de la radio por vueltas, y toma las decisiones estratégicas.
+* simulator.py: Es el módulo que contiene las formulas matemáticas (calculos de degradación), el control de la radio por vueltas, y toma las decisiones estratégicas.
 
-*visualizer.py: Es el módulo que diseña y genera los gráficos con matplotlib basado en los datos procesados, y los guarda en la carpeta 'outputs'.
+* visualizer.py: Es el módulo que diseña y genera los gráficos con matplotlib basado en los datos procesados, y los guarda en la carpeta 'outputs'.
 
 
 # Ejecución del software (VS Code)
