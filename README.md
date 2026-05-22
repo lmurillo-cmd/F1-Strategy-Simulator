@@ -15,9 +15,9 @@ Para ejecutar el programa en Visual Studio Code, es necesario tener instaladas l
 # Estructura y archivos del proyecto
 
 El software del proyecto se diseño mediante modulos .py
-* main.py: Es el modulo principal, contrala el flujo del menú y conecta todos los componentes de la simulación.
+* main.py: Es el modulo principal, controla el flujo del menú y conecta todos los componentes de la simulación.
 
-* data_manager.py: Es el módulo encargado de verificar el entrono del sistema, generar por defecto y cargar el archivo con los datos de los circuitos udando *DataFrames* de Pandas.
+* data_manager.py: Es el módulo encargado de verificar el entrono del sistema, generar por defecto y cargar el archivo con los datos de los circuitos usando *DataFrames* de Pandas.
 
 * simulator.py: Es el módulo que contiene las formulas matemáticas (calculos de degradación), el control de la radio por vueltas, y toma las decisiones estratégicas.
 
@@ -34,4 +34,4 @@ El software del proyecto se diseño mediante modulos .py
 
 4. El programa a continuación le solicitara el nombre del piloto, la escuderia, el circuito donde se hará la simulación y la posición de salida. Durante el desarrollo de la carrera, el menú cíclico simulara alertas o radios del ingeniero de carrera por, lluvia, daños en el ala y estrategias de entrada a boxes.
    
-5. Al finalizar la simulación, el programa imprimirá en la consola un reporte final y guardara las gráficas de los resultados en la carpeta 'outputs'.
+5. Al finalizar la simulación, el programa imprimirá en la consola un reporte final y guardará las gráficas de los resultados en la carpeta 'outputs'.
