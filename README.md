@@ -1,10 +1,10 @@
-# F1-Strategy-Simulator
+# 🏎️ F1-Strategy-Simulator 🏎️
 
 Simulador avanzado de estrategias de carrera
 
 El programa modela aspectos críticos como la degradación de compuestos (Blando, Medios y Duros), ventanas de parada en boxes, dinámicas de carrera con condiciones climáticas variables como lluvia e incidentes en pista (Safety car).
 
-# Requisitos e intalación
+# Requisitos e instalación
 
 Para ejecutar el programa en Visual Studio Code, es necesario tener instaladas las siguientes librerias en Phyton:
 * Pandas
